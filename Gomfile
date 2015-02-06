@@ -1,0 +1,3 @@
+gom "github.com/bmizerany/pat"
+gom "github.com/coopernurse/gorp"
+gom "github.com/go-sql-driver/mysql"

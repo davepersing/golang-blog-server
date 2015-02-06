@@ -1,14 +1,13 @@
 package main
 
 import (
-	"blog_server/blog"
+	"./blog"
 	"database/sql"
 	"encoding/json"
 	"fmt"
 	"github.com/bmizerany/pat"
 	"github.com/coopernurse/gorp"
 	_ "github.com/go-sql-driver/mysql"
-	"io"
 	"net/http"
 	"strconv"
 )
